@@ -67,3 +67,8 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=30A0E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/brightman0808)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&labelColor=&style=for-the-badge)](https://discord.gg/brightman#0808)
 [![Whatsapp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://wa.me/+380983123414)
+
+## 🥇 Metrices
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happydeveloper0305" alt="happydeveloper0305" /></a></p>
+
