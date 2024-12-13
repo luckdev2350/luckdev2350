@@ -1,9 +1,10 @@
-# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/Assets/Earth.gif" width="24">
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/luckdev2350/luckdev2350/blob/main/Earth.gif" width="24">
 
 ## 🧾 Summary
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=happydeveloper0305&label=Profile%20views&color=0e75b6&style=flat" alt="happydeveloper0305" /> </p>
-<img align="right" alt="GIF" src="https://github.com/happydeveloper0305/happydeveloper0305/blob/master/code.gif" width="500" height="320" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=luckdev2350&label=Profile%20views&color=0e75b6&style=flat" alt="luckdev2350" /> </p>
+
+<img align="right" alt="GIF" src="https://github.com/luckdev2350/luckdev2350/blob/main/code.gif" width="500" height="320" />
 With 9+ years of experience, I have a knack for bridging frontend innovation with robust backend solutions. Specializing in React, Next.js, Node.js, Ruby on Rails, and Python, I build seamless, scalable applications that enhance user experiences. I'm passionate about integrating cutting-edge AI technologies to drive digital transformation.
 
 I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
@@ -42,10 +43,14 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 
 </div>
 
-| ![happydeveloper0305 github stats](https://github-readme-stats.vercel.app/api?username=happydeveloper0305&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![happydeveloper0305 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=happydeveloper0305&theme=tokyonight&theme=icegray&border_radius=8) |
+## 🥇 Metrices
+
+| ![luckdev2350 github stats](https://github-readme-stats.vercel.app/api?username=luckdev2350&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![luckdev2350 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckdev2350&theme=tokyonight&theme=icegray&border_radius=8) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<hr>
+<hr />
+
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckdev2350" alt="luckdev2350" /></a></p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
@@ -53,7 +58,7 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 
 ## 🚩Contribution
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/happydeveloper0305/happydeveloper0305/output/github-contribution-grid-snake-dark.svg)
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/luckdev2350/luckdev2350/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials
 
@@ -66,5 +71,4 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 ## 🥇 Metrices
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happydeveloper0305" alt="happydeveloper0305" /></a></p>
-
 
