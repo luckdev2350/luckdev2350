@@ -70,5 +70,4 @@ I'm a committed team player and adaptable professional, thriving in both indepen
 
 ## 🥇 Metrices
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luckydev2350" alt="luckydev2350" /></a></p>
-
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=luckdev2350&theme=onestar" alt="happydeveloper0305" /></p>
